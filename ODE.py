@@ -21,7 +21,7 @@ def gen_explicit_RK(f, h, ti, tf, yi, Q, a):
                   [   0, 1./2, 0, 0],
                   [   0,    0, 1, 0]])
 
-    a = np.array([1./6, 1./3., 1./3, 1./6])
+    a = np.array([1./6, 1./3, 1./3, 1./6])
     '''
     steps = int((tf-t0)/h) + 1
     y = np.zeros(steps)
