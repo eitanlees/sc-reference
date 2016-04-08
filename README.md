@@ -1,8 +1,17 @@
 # Scientific Computing Reference
 
-A place for me to store useful functions
+A place for me to store useful scientific computing functions
 
-Contents
---------
+### Linear Algebra
+
+### Interpolation
+
+### Approximation
+
+### Differntiation
+
+### Integration
+
+### ODEs
 
 * Generalized Explicit Runge Kutta ODE Solver
